@@ -4,9 +4,7 @@ intervalos-vazao/
 
 __pycache__/
 *.pyc
-*.png
-*.jpg
-*.pdf
+
 
 
 
