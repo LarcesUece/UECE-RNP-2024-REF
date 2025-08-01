@@ -1,2 +1,12 @@
 datasets-merged-2024-2025/
+datasets-todos-links/
 intervalos-vazao/
+
+__pycache__/
+*.pyc
+*.png
+*.jpg
+*.pdf
+
+
+

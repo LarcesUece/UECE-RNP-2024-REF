@@ -1,0 +1,12 @@
+
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+jupyter
+ipykernel>=6.0.0
+# tensorflow                    # CPU 
+# tensorflow[and-cuda]          # GPU 
+# tensorflow==2.15.0            # Versão específica
